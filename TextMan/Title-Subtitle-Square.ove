@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <version>190219</version>
+    <url>C:/Users/abang/Documents/Olive/Preset/TextMan/Title-Subtitle-Square.ove</url>
+    <folders/>
+    <media/>
+    <sequences>
+        <sequence id="1" folder="0" name="Olive-Faran Squared-Text" width="1920" height="1080" framerate="30.0000000000" afreq="44100" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="Title" clipin="75" in="75" out="240" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <closing length="30" name="/Cross Dissolve" enabled="1"/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="139"/>
+                        <field id="posy" value="480"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;right&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:69pt; color:#ffffff;&quot;&gt;Title&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="1"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="4"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="4"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="4"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="4"/>
+                    </row>
+                </effect>
+                <effect name="Distort/Crop" enabled="1">
+                    <row>
+                        <field id="left" value="0"/>
+                    </row>
+                    <row>
+                        <field id="top" value="0"/>
+                    </row>
+                    <row>
+                        <field id="right" value="99.9717">
+                            <key value="100" frame="75" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="90" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="92" frame="86" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="210" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="100" frame="240" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="bottom" value="0"/>
+                    </row>
+                    <row>
+                        <field id="feather" value="0"/>
+                    </row>
+                    <row>
+                        <field id="invert" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="1" enabled="1" name="Cursor" clipin="0" in="0" out="240" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <opening length="30" name="/Cross Dissolve" enabled="1"/>
+                <closing length="30" name="/Cross Dissolve" enabled="1"/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="742.109">
+                            <key value="1128" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="1128" frame="30" type="1" prehx="-25.3053" prehy="7.11905" posthx="25.3053" posthy="-7.11905"/>
+                            <key value="766" frame="60" type="1" prehx="-76.8702" prehy="7.59552" posthx="76.8702" posthy="-7.59552"/>
+                            <key value="766" frame="75" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="1128" frame="105" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="978.869" frame="86" type="1" prehx="0" prehy="-176.196" posthx="0" posthy="176.196"/>
+                            <key value="1128" frame="210" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="742" frame="240" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="540">
+                            <key value="800" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="540" frame="30" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="540" frame="60" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="540" frame="75" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="540" frame="105" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="540" frame="210" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="540" frame="240" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="25"/>
+                        <field id="scaley" value="25"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="0"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="360">
+                            <key value="360" frame="60" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="30" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Solid" enabled="1">
+                    <row>
+                        <field id="type" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="color" value="#00ff00"/>
+                    </row>
+                    <row>
+                        <field id="checker_size" value="10"/>
+                    </row>
+                </effect>
+                <effect name="Distort/Crop" enabled="1">
+                    <row>
+                        <field id="left" value="47.5"/>
+                    </row>
+                    <row>
+                        <field id="top" value="5"/>
+                    </row>
+                    <row>
+                        <field id="right" value="47.5"/>
+                    </row>
+                    <row>
+                        <field id="bottom" value="5"/>
+                    </row>
+                    <row>
+                        <field id="feather" value="15"/>
+                    </row>
+                    <row>
+                        <field id="invert" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="3" enabled="1" name="Subtitle" clipin="75" in="75" out="240" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <closing length="30" name="/Cross Dissolve" enabled="1"/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="139"/>
+                        <field id="posy" value="600"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;right&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:45pt; color:#ffffff;&quot;&gt;Subtitle&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="1"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="4"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="4"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="4"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="4"/>
+                    </row>
+                </effect>
+                <effect name="Distort/Crop" enabled="1">
+                    <row>
+                        <field id="left" value="0"/>
+                    </row>
+                    <row>
+                        <field id="top" value="0"/>
+                    </row>
+                    <row>
+                        <field id="right" value="96.6667">
+                            <key value="100" frame="75" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="90" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="210" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="100" frame="240" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="bottom" value="0"/>
+                    </row>
+                    <row>
+                        <field id="feather" value="0"/>
+                    </row>
+                    <row>
+                        <field id="invert" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+    </sequences>
+</project>
